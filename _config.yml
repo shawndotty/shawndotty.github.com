@@ -1,0 +1,8 @@
+auto: true
+server: true
+pygments: true
+permalink: none
+baseurl: ""
+exclude:
+- .gitignore
+- README.md
